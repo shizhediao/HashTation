@@ -5,3 +5,4 @@ torchtext==0.13.0
 spacy
 scikit-learn
 sentence_transformers==1.2.1
+packaging==21.3
