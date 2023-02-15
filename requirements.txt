@@ -3,5 +3,5 @@ sentencepiece==0.1.95
 datasets==2.4.0
 torchtext==0.13.0
 spacy
-sklearn
+scikit-learn
 sentence_transformers==1.2.1
